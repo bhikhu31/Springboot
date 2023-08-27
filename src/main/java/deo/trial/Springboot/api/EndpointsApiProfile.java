@@ -10,7 +10,7 @@ import com.google.api.server.spi.config.ApiNamespace;
 import static deo.trial.Springboot.api.EndpointsApiProfile.PROJECT_ID;
 
 /**
- * Author is Deo
+ * Author is AArush
  * The endpoint profile, the base class as a configuration of the REST API and generated client.
  * <p>
  * <strong>Preconfigured for Firebase Authentication (OAuth 2.0)</strong>
